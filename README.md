@@ -1,2 +1,14 @@
 # mksportsshore-resource
-HTML page archive and documentation
+
+页面内容归档仓库
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
